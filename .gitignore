@@ -1,0 +1,15 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+*.app/
+*.zip
+*.dmg
+*.sqlite
+*.sqlite-*
+*.log
+.env
+.env.*
+work/
+CleanMyMac-*.md
+App-rule-coverage.md
